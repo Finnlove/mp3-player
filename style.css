@@ -54,6 +54,7 @@ a {
     font-weight: 600;
 }
 svg {
+    transform:scale(0.1, 0.1)
     position: absolute;
     /*left:200px;*/
     display: block;
