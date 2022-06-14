@@ -1,5 +1,6 @@
 
 body {
+    transform:scale(0.2, 0.2)
     color: white;
     font-family: 'Roboto', sans-serif;
     margin:0;
